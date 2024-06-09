@@ -1,6 +1,6 @@
-# Vite React and Express Full-Stack Application
+# React/Vite and Node/Express Docker boilerplate
 
-This project sets up a full-stack application with a Vite-powered React frontend and an Express backend, containerized with Docker for easy deployment and development.
+This is a boilerplate for a full-stack application with a React and Vite in the frontend, and Node and Express in the backend, all containerized with Docker for easy deployment and development.
 
 ## Prerequisites
 
